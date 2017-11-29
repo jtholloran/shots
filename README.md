@@ -7,12 +7,21 @@
 ### Open the Sketch file to view step-by-step instructions.
 
 #### How it Works
-Replace five screenshots (750 x 1334) with shots of your iPhone app.
 
-Using [Sketch](https://www.sketchapp.com/), edit or add to five artboards featuring your screens. Choose from a silver, gold, black, or rose gold iPhone 7 to frame your shots.
+Insert five screenshots of your iPhone app into [Sketch](https://www.sketchapp.com/) symbols at both iPhone 6/7/8 and iPhone X sizes.
 
-With some help from the [Sketch Replace Images plugin](https://github.com/shakemno/sketch-replace-images), Sketch generates all the sizes required by the App Store for iPhone 4, SE, 6/7, and 6/7plus.
+<img src="promo/instructions.jpg">
+
+Edit or add to five additional symbols containing backgrounds and captions.
+
+<img src="promo/symbols.jpg">
+
+Choose from a variety of iPhone devices to frame your shots (now including "Clay" options).
+
+<img src="promo/choose_iphone_frame.gif">
+
+<img src="promo/preview.jpg">
+
+Command + Shift + E: Sketch generates all the sizes required by the App Store for iPhone 4, SE, 6/7/8, 6/7/8 Plus, and X.
 
 Enjoy! :facepunch:
-
-<img src="promo/shots_template.jpg">
