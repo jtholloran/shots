@@ -1,14 +1,14 @@
 # shots
 
-### Sketch template for generating iPhone App Store screenshots
+### Figma and Sketch templates for generating iPhone App Store screenshots
 
 <img src="promo/shots_dribbble.jpg" width="450">
 
-### Open the Sketch file to view step-by-step instructions.
+### Open the Figma or Sketch file to view step-by-step instructions.
 
 #### How it Works
 
-Insert ten screenshots of your iPhone app into [Sketch](https://www.sketchapp.com/) symbols at both iPhone 8, 8 Plus, 11 Pro, and 11 Pro Max sizes.
+Insert ten screenshots of your iPhone app into symbols at both iPhone 8, 8 Plus, 11 Pro, and 11 Pro Max sizes.
 
 <img src="promo/instructions.jpg" style="max-width:900px">
 
@@ -22,6 +22,6 @@ Choose from a variety of iPhone devices to frame your shots (including "Clay" op
 
 <img src="promo/preview.jpg" style="max-width:900px">
 
-Command + Shift + E: Sketch generates all the sizes required by the App Store for iPhone 4, SE, 8, 8 Plus, 11, 11 Pro, and 11 Pro Max.
+Command + Shift + E: Generates all the sizes required by the App Store for iPhone 4, SE, 8, 8 Plus, 11, 11 Pro, and 11 Pro Max.
 
 Enjoy! :facepunch:
